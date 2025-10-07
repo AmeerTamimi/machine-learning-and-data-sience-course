@@ -16,11 +16,8 @@
 - Assignment 3: Matplotlib  
 - Assignment 4: KNN  
 
-**Minor Project**  
-- Project 1: Diabetes Detection Model  
-
 **Major Project**  
-- Project 1: Spam Email Detection Model  
+- Project 1: Diabetes Detection Model  
 
 ---
 
