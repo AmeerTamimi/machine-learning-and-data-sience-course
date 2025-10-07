@@ -34,7 +34,7 @@
 
 ---
 
-### 🧠 Author  
+### Author  
 **Ameer Tamimi**  
 **LinkedIn:** [Ameer Tamimi](https://www.linkedin.com/in/ameer-tamimi-87933431a/)  
 **GitHub:** [@AmeerTamimi](https://github.com/AmeerTamimi)
