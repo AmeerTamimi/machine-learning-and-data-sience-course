@@ -27,7 +27,6 @@
 - Assignment-3-Matplotlib/  
 - Assignment-4-KNN/  
 - Project-1-Diabetes-Detection/  
-- Project-2-Spam-Email-Detection/  
 
 ---
 
